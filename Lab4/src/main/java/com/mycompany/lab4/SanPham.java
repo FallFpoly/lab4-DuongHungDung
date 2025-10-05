@@ -33,6 +33,7 @@ public class SanPham {
     }
 
     public void xuat() {
+        
         System.out.println("Ten san pham: " + tenSp);
         System.out.println("Don gia: " + donGia);
         System.out.println("Giam gia: " + giamGia);

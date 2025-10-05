@@ -14,7 +14,9 @@ public class SanPhamm {
     private String tenSp;
     private double donGia;
     private double giamGia;
+    
     public SanPhamm(String tenSp, double donGia, double giamGia) {
+        
         this.tenSp = tenSp;
         this.donGia = donGia;
         this.giamGia = giamGia;

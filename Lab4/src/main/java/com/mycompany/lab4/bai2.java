@@ -11,6 +11,7 @@ package com.mycompany.lab4;
 public class bai2 {
     
     public static void main(String[] args) {
+        
         SanPham sp1 = new SanPham();
         SanPham sp2 = new SanPham();
 

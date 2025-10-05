@@ -11,6 +11,7 @@ package com.mycompany.lab4;
 public class bai1 {
     
     public static void main(String[] args) {
+        
         SanPham sp = new SanPham();
         
         sp.nhap();

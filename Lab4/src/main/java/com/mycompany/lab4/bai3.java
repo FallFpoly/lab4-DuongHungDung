@@ -1,12 +1,13 @@
+package com.mycompany.lab4;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.lab4;
 
 /**
  *
- * @author ICT
+ * @author ASUS
  */
 public class bai3 {
     
@@ -21,3 +22,4 @@ public class bai3 {
         sp2.xuat();
     }
 }
+
