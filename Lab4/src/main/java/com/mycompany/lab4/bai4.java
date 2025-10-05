@@ -11,6 +11,7 @@ package com.mycompany.lab4;
 
 
 public class bai4 {
+    
     public static void main(String[] args) {
         // Tạo sản phẩm
         sanphammmm sp = new sanphammmm("Ao", 200000, 15000);

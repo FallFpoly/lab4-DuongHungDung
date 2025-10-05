@@ -9,6 +9,7 @@ package com.mycompany.lab4;
  * @author ICT
  */
 public class bai3 {
+    
     public static void main(String[] args) {
         // Tạo sản phẩm có giảm giá
         SanPhamm sp1 = new SanPhamm("Ao", 200000, 20000);
