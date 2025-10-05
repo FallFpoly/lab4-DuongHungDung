@@ -22,4 +22,3 @@ public class bai3 {
         sp2.xuat();
     }
 }
-
