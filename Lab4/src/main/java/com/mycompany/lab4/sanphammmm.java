@@ -25,7 +25,6 @@ public class sanphammmm {
     public String getTenSp() {
         return tenSp;
     }
-
     public void setTenSp(String tenSp) {
         this.tenSp = tenSp;
     }

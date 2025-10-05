@@ -31,7 +31,6 @@ public class SanPham {
     public double getThueNhapKhau() {
         return donGia * 0.1;
     }
-
     public void xuat() {
         
         System.out.println("Ten san pham: " + tenSp);
