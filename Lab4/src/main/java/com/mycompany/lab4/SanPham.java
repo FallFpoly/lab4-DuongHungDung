@@ -18,6 +18,7 @@ public class SanPham {
     private double giamGia;
 
     public void nhap() {
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ten san pham: ");
         tenSp = sc.nextLine();

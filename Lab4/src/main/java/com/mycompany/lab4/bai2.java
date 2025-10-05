@@ -18,6 +18,7 @@ public class bai2 {
         sp1.nhap();  
         System.out.println("\n=== Nhap thong tin san pham 2 ===");
         sp2.nhap();
+        
         System.out.println("\n=== Thong tin san pham 1 ===");
         sp1.xuat();
 

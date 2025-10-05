@@ -36,11 +36,9 @@ public class sanphammmm {
     public void setDonGia(double donGia) {
         this.donGia = donGia;
     }
-
     public double getGiamGia() {
         return giamGia;
     }
-
     public void setGiamGia(double giamGia) {
         this.giamGia = giamGia;
     }
