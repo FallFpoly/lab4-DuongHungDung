@@ -9,8 +9,10 @@ package com.mycompany.lab4;
  * @author ICT
  */
 public class bai1 {
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        SanPham sp = new SanPham();
+        sp.nhap();
+        System.out.println("\nThong tin san pham vua nhap:");
+        sp.xuat();
     }
 }
