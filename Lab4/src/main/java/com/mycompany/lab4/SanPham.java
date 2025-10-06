@@ -27,7 +27,7 @@ public class SanPham {
         System.out.print("Nhap giam gia: ");
         giamGia = sc.nextDouble();
     }
-
+    
     public double getThueNhapKhau() {
         return donGia * 0.1;
     }

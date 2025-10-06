@@ -10,7 +10,7 @@ package com.mycompany.lab4;
  * @author ASUS
  */
 public class sanphammmm {
-    
+   
     private String tenSp;
     private double donGia;
     private double giamGia;

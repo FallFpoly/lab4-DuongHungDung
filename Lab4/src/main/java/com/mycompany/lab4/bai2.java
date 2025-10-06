@@ -9,7 +9,7 @@ package com.mycompany.lab4;
  * @author ICT
  */
 public class bai2 {
-    
+   
     public static void main(String[] args) {
        
         SanPham sp1 = new SanPham();

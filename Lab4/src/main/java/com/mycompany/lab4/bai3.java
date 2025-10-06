@@ -10,7 +10,7 @@ package com.mycompany.lab4;
  * @author ASUS
  */
 public class bai3 {
-   
+  
     public static void main(String[] args) {
         SanPhamm sp1 = new SanPhamm("Ao", 200000, 20000);
 

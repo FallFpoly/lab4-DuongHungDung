@@ -11,7 +11,7 @@ package com.mycompany.lab4;
 
 
 public class bai4 {
-   
+  
     public static void main(String[] args) {
        
         sanphammmm sp = new sanphammmm("Ao", 200000, 15000);

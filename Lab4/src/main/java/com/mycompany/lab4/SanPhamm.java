@@ -24,6 +24,7 @@ public class SanPhamm {
     public SanPhamm(String tenSp, double donGia) {
         this(tenSp, donGia, 0);
     }
+   
     public void nhap() {
         java.util.Scanner sc = new java.util.Scanner(System.in);
         System.out.print("Nhap ten san pham: ");
